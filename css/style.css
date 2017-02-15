@@ -1,0 +1,61 @@
+body{
+	background-color: #efe7be;
+	margin: 30px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.header{
+	background-color: #f8ca4d;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	text-align: right;
+}
+.store{
+	background-color: #428bca;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+h3, h2 {
+    text-align: center;
+}
+
+.judul{
+	font-weight: bold;
+	float: left;
+	font-size: 20px;
+	padding: 10px;
+}
+.menu li{
+	display: inline;
+	list-style-type: none;
+}
+.konten{
+	font-family: 'Lato', sans-serif;
+	background-color: #efe7be;
+	text-align: center;
+	margin-top: 15px;
+	padding: 10px;
+}
+table img{
+	width: 100px;
+	height: 100px;
+}
+.footer{
+	background-color: #ea6045;
+	margin-top: 15px;
+	padding: 10px;
+	text-align: right;
+}
+.copyright{
+	padding-top: 8px;
+	float: left;
+}
+.social a:hover{
+	opacity: 0.8;
+}
+.social img{
+	height: 30px;
+	width: 30px;
+}
